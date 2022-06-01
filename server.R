@@ -82,8 +82,7 @@ shinyServer(function(session,input, output) {
            xlim = c(0, Largura),
            ylim = c(0, Altura))
       
-      Titulo1 <- 'O Diretor Geral da Faculdade Católica do Rio Grande do Norte, no uso das suas atribuiões,'
-      
+      Titulo1 <- 'O Diretor Geral da Faculdade Tabajara, no uso das suas atribuiões,'      
       Titulo2 <- paste(' tendo em vista a conclusão do Curso de ', dados$Curso[i], ' em ', dados$Data_de_Conclusao[i], ', confere o título de ', ifelse(dados$Sexo[i]=='Masculino','Bacharel', 'Bacharela'), ' em ', dados$Curso[i], sep = '')
       
       Y <- Altura - MargemVertical()-Espacamento()
@@ -161,7 +160,7 @@ shinyServer(function(session,input, output) {
                xlim = c(0, Largura),
                ylim = c(0, Altura))
           
-          Titulo1 <- 'O Diretor Geral da Faculdade Católica do Rio Grande do Norte, no uso das suas atribuiões,'
+          Titulo1 <- 'O Diretor Geral da Faculdade Tabajara, no uso das suas atribuiões,'
           
           Titulo2 <- paste(' tendo em vista a conclusão do Curso de ', dados$Curso[i], ' em ', 
                            dados$Data_de_Conclusao[i], ', confere o título de ', ifelse(dados$Sexo[i]=='Masculino','Bacharel', 'Bacharela'), 

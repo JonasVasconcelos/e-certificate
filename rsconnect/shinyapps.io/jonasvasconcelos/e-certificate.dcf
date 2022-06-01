@@ -5,9 +5,9 @@ account: jonasvasconcelos
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6404924
-bundleId: 5967508
+bundleId: 5967628
 url: https://jonasvasconcelos.shinyapps.io/e-certificate/
-when: 1654085725.13898
-lastSyncTime: 1654085725.139
+when: 1654088319.6744
+lastSyncTime: 1654088319.67442
 asMultiple: FALSE
 asStatic: FALSE
