@@ -204,7 +204,7 @@ shinyServer(function(session,input, output) {
           DiplomadoRG <- paste('RG:', dados$RG[i],
                                ' - ', dados$Orgao_Emissor[i], '/',
                                dados$Estado_de_Emissao[i], sep="")
-          
+           
           Y <- Y - (1.5 * Espacamento())
           text((75/2)+25, Y, Secretaria, cex = FontSize())
           text((Largura - (75/2))-25, Y, Diretor, cex = FontSize())
