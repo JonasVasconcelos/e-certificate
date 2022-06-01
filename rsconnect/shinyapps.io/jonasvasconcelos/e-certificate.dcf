@@ -1,0 +1,13 @@
+name: e-certificate
+title: e-certificate
+username:
+account: jonasvasconcelos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6404924
+bundleId: 5967485
+url: https://jonasvasconcelos.shinyapps.io/e-certificate/
+when: 1654085306.18555
+lastSyncTime: 1654085306.18556
+asMultiple: FALSE
+asStatic: FALSE
