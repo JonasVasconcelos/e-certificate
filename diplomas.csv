@@ -1,0 +1,4 @@
+Aluno;Curso;Sexo;Bac/Lic;Data_de_Conclusao;Cidade_Natal;Estado_Natal;Data_de_Nascimento;Data_da_emissao_do_diploma;Secretaria;Diretor;RG;Orgao_Emissor;Estado_de_Emissao
+Fulano de tal;Educação Física;Masculino;Bacharel;03/02/2022;Natal;RN;14 de julho de 1970;25 de maio de 2022;Senhora Secretária Maria;Senhor Diretor João;X1123;SSP;RN
+Eu Mesmo da Silva;Engenharia de Pesca;Masculino;Bacharel;10/08/2012;São Paulo;SP;23 de setembro de 1988;15 de agosto de 2012;Senhora Secretária Maria;Senhor Diretor João;Y91892;SSP;SP
+Maria dos Céus;Pedagogia;Feminino;Bacharel;24/10/1995;Fortaleza;CE;20 de abril de 1972;01 de fevereiro de 2000;Senhora Secretária Maria;Senhor Diretor João;Z189236;SSP;CE
