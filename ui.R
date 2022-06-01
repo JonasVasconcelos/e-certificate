@@ -90,6 +90,7 @@ GraphInputLWR <- {tabItem(tabName = "graph",
 
 shinyUI(
   dashboardPage(
+    title = 'e-certificate',
     dashboardHeader( title = title),
     dashboardSidebar(sidebar),
     dashboardBody( 
